@@ -15,5 +15,5 @@ Kmeans clustering can separate them with accuracy of 100%. [Code here](https://g
 
 ### Gn-GloVe
 <img src="gnglove.png" width="800">
-Kmeans clustering can separate them with accuracy of 85.7%. [Code here](https://github.com/muaz-urwa/Lisptic-on-a-Pig-Word-Embedding-Bias-unofficial-code/blob/master/Bias%20by%20Clustering.ipynb)
+Kmeans clustering can separate them with accuracy of 85.7%. [Code](https://github.com/muaz-urwa/Lisptic-on-a-Pig-Word-Embedding-Bias-unofficial-code/blob/master/Bias%20by%20Clustering.ipynb)
 
