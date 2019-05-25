@@ -9,10 +9,10 @@ As stated by the paper, preprocessing steps were:
 - remove gender specific words given [here](https://github.com/uclanlp/gn_glove/tree/master/wordlist)
 
 ### GloVe
-<img src="glove.jpg" width="800">
+<img src="glove.png" width="800">
 
 Kmeans clustering can separate them with accuracy of 100%. [Code here](https://github.com/muaz-urwa/Lisptic-on-a-Pig-Word-Embedding-Bias-unofficial-code/blob/master/Bias%20by%20Clustering.ipynb)
 
 ### Gn-GloVe
-<img src="gnglove.jpg" width="800">
+<img src="gnglove.png" width="800">
 Kmeans clustering can separate them with accuracy of 85.7%. [Code here](https://github.com/muaz-urwa/Lisptic-on-a-Pig-Word-Embedding-Bias-unofficial-code/blob/master/Bias%20by%20Clustering.ipynb)
